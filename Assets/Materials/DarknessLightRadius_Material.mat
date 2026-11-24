@@ -33,6 +33,6 @@ Material:
     - _Softness: 0.05
     m_Colors:
     - _DarknessColor: {r: 0, g: 0, b: 0, a: 0.85}
-    - _LightCenter: {r: 0.50015604, g: 0.5, b: 0, a: 0}
+    - _LightCenter: {r: 0.49984366, g: 0.4999989, b: 0, a: 0}
   m_BuildTextureStacks: []
   m_AllowLocking: 1

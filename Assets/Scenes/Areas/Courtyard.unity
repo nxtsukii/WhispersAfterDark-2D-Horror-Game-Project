@@ -5299,7 +5299,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b317641d36f0b3c4e96964b452b0fe34, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GateInteraction
-  dialogueMessage: 'You''re already chickening out? '
+  dialogueMessage: 'You''re already going to chicken out? '
   dialogueUI: {fileID: 1263708944}
 --- !u!61 &1728160959
 BoxCollider2D:
