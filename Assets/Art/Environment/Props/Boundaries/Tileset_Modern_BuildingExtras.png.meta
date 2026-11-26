@@ -1,0 +1,2290 @@
+fileFormatVersion: 2
+guid: cc265d11b2725f44cac72f925fd1ddb6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1188502366169645736
+    second: Tileset_Modern_BuildingExtras_0
+  - first:
+      213: 5968912316246860275
+    second: Tileset_Modern_BuildingExtras_1
+  - first:
+      213: -1720135952697403022
+    second: Tileset_Modern_BuildingExtras_2
+  - first:
+      213: 7463180468918541493
+    second: Tileset_Modern_BuildingExtras_3
+  - first:
+      213: -7834815044003106427
+    second: Tileset_Modern_BuildingExtras_4
+  - first:
+      213: 1021776827159309081
+    second: Tileset_Modern_BuildingExtras_5
+  - first:
+      213: -5313660514764828046
+    second: Tileset_Modern_BuildingExtras_6
+  - first:
+      213: 5673671305165268410
+    second: Tileset_Modern_BuildingExtras_7
+  - first:
+      213: -3015336738767581435
+    second: Tileset_Modern_BuildingExtras_8
+  - first:
+      213: -1702391707802618842
+    second: Tileset_Modern_BuildingExtras_9
+  - first:
+      213: 8219256223373971734
+    second: Tileset_Modern_BuildingExtras_10
+  - first:
+      213: 4032224676757741336
+    second: Tileset_Modern_BuildingExtras_11
+  - first:
+      213: -2365655602982637317
+    second: Tileset_Modern_BuildingExtras_12
+  - first:
+      213: 7065913812009967683
+    second: Tileset_Modern_BuildingExtras_13
+  - first:
+      213: 6476862791433600469
+    second: Tileset_Modern_BuildingExtras_14
+  - first:
+      213: -6932208447912205894
+    second: Tileset_Modern_BuildingExtras_15
+  - first:
+      213: -6186210126324268549
+    second: Tileset_Modern_BuildingExtras_16
+  - first:
+      213: 674842409940004679
+    second: Tileset_Modern_BuildingExtras_17
+  - first:
+      213: -718897046447366807
+    second: Tileset_Modern_BuildingExtras_18
+  - first:
+      213: -7368639403094049587
+    second: Tileset_Modern_BuildingExtras_19
+  - first:
+      213: 5149219634159990553
+    second: Tileset_Modern_BuildingExtras_20
+  - first:
+      213: 7501143952667708442
+    second: Tileset_Modern_BuildingExtras_21
+  - first:
+      213: -1955414351358861586
+    second: Tileset_Modern_BuildingExtras_22
+  - first:
+      213: 2264810563325534640
+    second: Tileset_Modern_BuildingExtras_23
+  - first:
+      213: 6119939304027770763
+    second: Tileset_Modern_BuildingExtras_24
+  - first:
+      213: 3375239582036358414
+    second: Tileset_Modern_BuildingExtras_25
+  - first:
+      213: 7181421223540985038
+    second: Tileset_Modern_BuildingExtras_26
+  - first:
+      213: -8958585038660887595
+    second: Tileset_Modern_BuildingExtras_27
+  - first:
+      213: -2470011698916692083
+    second: Tileset_Modern_BuildingExtras_28
+  - first:
+      213: 648344945644763934
+    second: Tileset_Modern_BuildingExtras_29
+  - first:
+      213: 8997188631214288043
+    second: Tileset_Modern_BuildingExtras_30
+  - first:
+      213: 3593428651171357208
+    second: Tileset_Modern_BuildingExtras_31
+  - first:
+      213: 6223817437550675818
+    second: Tileset_Modern_BuildingExtras_32
+  - first:
+      213: -326162446812678338
+    second: Tileset_Modern_BuildingExtras_33
+  - first:
+      213: 89135423511099387
+    second: Tileset_Modern_BuildingExtras_34
+  - first:
+      213: -8863104743647851088
+    second: Tileset_Modern_BuildingExtras_35
+  - first:
+      213: 2991923195434160448
+    second: Tileset_Modern_BuildingExtras_36
+  - first:
+      213: 3653452933121204484
+    second: Tileset_Modern_BuildingExtras_37
+  - first:
+      213: 9221051822109996556
+    second: Tileset_Modern_BuildingExtras_38
+  - first:
+      213: -8905298794652737839
+    second: Tileset_Modern_BuildingExtras_39
+  - first:
+      213: -1498487505522835887
+    second: Tileset_Modern_BuildingExtras_40
+  - first:
+      213: -209192715721224544
+    second: Tileset_Modern_BuildingExtras_41
+  - first:
+      213: 582034884208629519
+    second: Tileset_Modern_BuildingExtras_42
+  - first:
+      213: 353416256188120025
+    second: Tileset_Modern_BuildingExtras_43
+  - first:
+      213: -2323899689034244990
+    second: Tileset_Modern_BuildingExtras_44
+  - first:
+      213: -6065514307037337127
+    second: Tileset_Modern_BuildingExtras_45
+  - first:
+      213: 6681194763115912225
+    second: Tileset_Modern_BuildingExtras_46
+  - first:
+      213: 7431207715639826091
+    second: Tileset_Modern_BuildingExtras_47
+  - first:
+      213: 5535562640469222673
+    second: Tileset_Modern_BuildingExtras_48
+  - first:
+      213: 1490928050101981678
+    second: Tileset_Modern_BuildingExtras_49
+  - first:
+      213: -419740251978330239
+    second: Tileset_Modern_BuildingExtras_50
+  - first:
+      213: -1923905532824824799
+    second: Tileset_Modern_BuildingExtras_51
+  - first:
+      213: -3869984542212058866
+    second: Tileset_Modern_BuildingExtras_52
+  - first:
+      213: -5994516928914707026
+    second: Tileset_Modern_BuildingExtras_53
+  - first:
+      213: 3908807493115055284
+    second: Tileset_Modern_BuildingExtras_54
+  - first:
+      213: 312598249811308709
+    second: Tileset_Modern_BuildingExtras_55
+  - first:
+      213: -3489862892182287752
+    second: Tileset_Modern_BuildingExtras_56
+  - first:
+      213: 4471615547748112894
+    second: Tileset_Modern_BuildingExtras_57
+  - first:
+      213: 8049274985536429
+    second: Tileset_Modern_BuildingExtras_58
+  - first:
+      213: 4960017299663587578
+    second: Tileset_Modern_BuildingExtras_59
+  - first:
+      213: -4942628241564378715
+    second: Tileset_Modern_BuildingExtras_60
+  - first:
+      213: 3512761620873476118
+    second: Tileset_Modern_BuildingExtras_61
+  - first:
+      213: 2818608656831569482
+    second: Tileset_Modern_BuildingExtras_62
+  - first:
+      213: -2464180352753427061
+    second: Tileset_Modern_BuildingExtras_63
+  - first:
+      213: -6317434230294240661
+    second: Tileset_Modern_BuildingExtras_64
+  - first:
+      213: -3212220796456277397
+    second: Tileset_Modern_BuildingExtras_65
+  - first:
+      213: 2833708762237485397
+    second: Tileset_Modern_BuildingExtras_66
+  - first:
+      213: -1525051744901302627
+    second: Tileset_Modern_BuildingExtras_67
+  - first:
+      213: -4192011895534412907
+    second: Tileset_Modern_BuildingExtras_68
+  - first:
+      213: 2777227261737557260
+    second: Tileset_Modern_BuildingExtras_69
+  - first:
+      213: -3742789603949204480
+    second: Tileset_Modern_BuildingExtras_70
+  - first:
+      213: -4898956299286042196
+    second: Tileset_Modern_BuildingExtras_71
+  - first:
+      213: 5008138693890644858
+    second: Tileset_Modern_BuildingExtras_72
+  - first:
+      213: -5026045241605162807
+    second: Tileset_Modern_BuildingExtras_73
+  - first:
+      213: 4628473093735799522
+    second: Tileset_Modern_BuildingExtras_74
+  - first:
+      213: -4555245126382055901
+    second: Tileset_Modern_BuildingExtras_75
+  - first:
+      213: 2011098888666249485
+    second: Tileset_Modern_BuildingExtras_76
+  - first:
+      213: 5494643607403158649
+    second: Tileset_Modern_BuildingExtras_77
+  - first:
+      213: -8841305523013278990
+    second: Tileset_Modern_BuildingExtras_78
+  - first:
+      213: -6056118687987450912
+    second: Tileset_Modern_BuildingExtras_79
+  - first:
+      213: -1179509348564723131
+    second: Tileset_Modern_BuildingExtras_80
+  - first:
+      213: 5483548912388446117
+    second: Tileset_Modern_BuildingExtras_81
+  - first:
+      213: 7147807041564556021
+    second: Tileset_Modern_BuildingExtras_82
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wall_Horizontal
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 576
+        width: 48
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2c046ea986e7010800000000000000
+      internalID: 1188502366169645736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 683
+        width: 82
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f129518026d5d250800000000000000
+      internalID: 5968912316246860275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 540
+        width: 167
+        height: 214
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279d716f679d028e0800000000000000
+      internalID: -1720135952697403022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 143
+        width: 198
+        height: 625
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcd588481b829760800000000000000
+      internalID: 7463180468918541493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_4
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 623
+        width: 98
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581fe456a35254390800000000000000
+      internalID: -7834815044003106427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_5
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 431
+        width: 30
+        height: 337
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91b6e865c941e2e00800000000000000
+      internalID: 1021776827159309081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 635
+        width: 49
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2725c603ae51246b0800000000000000
+      internalID: -5313660514764828046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wall_Vertical
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 699
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5e3bcddfdecbe40800000000000000
+      internalID: 5673671305165268410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_8
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 623
+        width: 50
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fc297463f5726d0800000000000000
+      internalID: -3015336738767581435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 555
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 624badbe2c3ef58e0800000000000000
+      internalID: -1702391707802618842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_10
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 491
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611df18dcf9a01270800000000000000
+      internalID: 8219256223373971734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_11
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 530
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f95b8daf655f730800000000000000
+      internalID: 4032224676757741336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_12
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 575
+        width: 98
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0be4b43c08b2fd0800000000000000
+      internalID: -2365655602982637317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_13
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 461
+        width: 13
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340616adc2b2f0260800000000000000
+      internalID: 7065913812009967683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_14
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 431
+        width: 31
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd3856946072e950800000000000000
+      internalID: 6476862791433600469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 527
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab12b312529dbcf90800000000000000
+      internalID: -6932208447912205894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_16
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 533
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf184828aaa262aa0800000000000000
+      internalID: -6186210126324268549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_17
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 479
+        width: 43
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fa7dba8958d5900800000000000000
+      internalID: 674842409940004679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 97
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d5d64f1f6f506f0800000000000000
+      internalID: -718897046447366807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_19
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 497
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dccf1ace0855db990800000000000000
+      internalID: -7368639403094049587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_20
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 461
+        width: 21
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b29cb9f3b57740800000000000000
+      internalID: 5149219634159990553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_21
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 457
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c04d3aeaa691860800000000000000
+      internalID: 7501143952667708442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_22
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 455
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeedd86f109fcd4e0800000000000000
+      internalID: -1955414351358861586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_23
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 461
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b1229635393e6f10800000000000000
+      internalID: 2264810563325534640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 455
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fc6874f546ee450800000000000000
+      internalID: 6119939304027770763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_25
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 431
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e057d1f548247de20800000000000000
+      internalID: 3375239582036358414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_26
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 432
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecc8c93dd8889a360800000000000000
+      internalID: 7181421223540985038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_27
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 304
+        width: 44
+        height: 129
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5db1d783f56bca380800000000000000
+      internalID: -8958585038660887595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 403
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8fe20f4271c8bdd0800000000000000
+      internalID: -2470011698916692083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_29
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 402
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b73110b426ff800800000000000000
+      internalID: 648344945644763934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_30
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 385
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bace5b4146f6cdc70800000000000000
+      internalID: 8997188631214288043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_31
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 385
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812a7c6c15c6ed130800000000000000
+      internalID: 3593428651171357208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_32
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 385
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a670718fbf07f5650800000000000000
+      internalID: 6223817437550675818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_33
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 385
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3778a29bfc397bf0800000000000000
+      internalID: -326162446812678338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_34
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 191
+        width: 144
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf77847023cac3100800000000000000
+      internalID: 89135423511099387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_35
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 267
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd4ac3c13deff480800000000000000
+      internalID: -8863104743647851088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_36
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 365
+        width: 79
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041da1b5b42758920800000000000000
+      internalID: 2991923195434160448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 354
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4016c4af51ca3b230800000000000000
+      internalID: 3653452933121204484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 354
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c06b558e6c1c7ff70800000000000000
+      internalID: 9221051822109996556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_39
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 305
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de5206bde50a6480800000000000000
+      internalID: -8905298794652737839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_40
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 354
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e33f49d8d443be0800000000000000
+      internalID: -1498487505522835887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_41
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 191
+        width: 163
+        height: 134
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae46d9555cc81df0800000000000000
+      internalID: -209192715721224544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_42
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 249
+        width: 23
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f071428b4adc31800800000000000000
+      internalID: 582034884208629519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_43
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 287
+        width: 34
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dbf0f7663697e400800000000000000
+      internalID: 353416256188120025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_44
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 246
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c197d9b89dfbfd0800000000000000
+      internalID: -2323899689034244990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_45
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 187
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d96dfccfd6f2dba0800000000000000
+      internalID: -6065514307037337127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_46
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 198
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12c59b21d3f58bc50800000000000000
+      internalID: 6681194763115912225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_47
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 199
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba69ade8b04f02760800000000000000
+      internalID: 7431207715639826091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_48
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 199
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115671194e442dc40800000000000000
+      internalID: 5535562640469222673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_49
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 191
+        width: 43
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee19efb8927d0b410800000000000000
+      internalID: 1490928050101981678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_50
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 191
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f06e6f678cc2af0800000000000000
+      internalID: -419740251978330239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_51
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 191
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12451967c1aec45e0800000000000000
+      internalID: -1923905532824824799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_52
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 75
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01923b109d0b4ac0800000000000000
+      internalID: -3869984542212058866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_53
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 173
+        width: 79
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead29fb0d923fcca0800000000000000
+      internalID: -5994516928914707026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_54
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 75
+        width: 42
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc028a84bfde3630800000000000000
+      internalID: 3908807493115055284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_55
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 173
+        width: 89
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a07965b372965400800000000000000
+      internalID: 312598249811308709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_56
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 171
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a48ac8034819fc0800000000000000
+      internalID: -3489862892182287752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_57
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 171
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9d3a726ae5e0e30800000000000000
+      internalID: 4471615547748112894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_58
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 167
+        width: 41
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab5630e5c89c1000800000000000000
+      internalID: 8049274985536429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_59
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 123
+        width: 33
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af88d3a647585d440800000000000000
+      internalID: 4960017299663587578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_60
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 129
+        width: 33
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9ddbc2dc1486bb0800000000000000
+      internalID: -4942628241564378715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618f9c03516dfb030800000000000000
+      internalID: 3512761620873476118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_62
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 0
+        width: 124
+        height: 126
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e5947c3a5bd1720800000000000000
+      internalID: 2818608656831569482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_63
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 95
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d92a366097dcdd0800000000000000
+      internalID: -2464180352753427061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 47
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b622b6be907f358a0800000000000000
+      internalID: -6317434230294240661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_65
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 61
+        width: 96
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ae9176436eb63d0800000000000000
+      internalID: -3212220796456277397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_66
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 95
+        width: 94
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 551c31a0b1b535720800000000000000
+      internalID: 2833708762237485397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 95
+        width: 98
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d967111a48de5dae0800000000000000
+      internalID: -1525051744901302627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_68
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 76
+        width: 49
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b9578246bf2d5c0800000000000000
+      internalID: -4192011895534412907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_69
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 76
+        width: 48
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dd56cea71ba8620800000000000000
+      internalID: 2777227261737557260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_70
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 20
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c25937fa0fe0cc0800000000000000
+      internalID: -3742789603949204480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_71
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 47
+        width: 98
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9a4ea9339630cb0800000000000000
+      internalID: -4898956299286042196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_72
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 21
+        width: 42
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b9d3b9b9b708540800000000000000
+      internalID: 5008138693890644858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_73
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2
+        width: 50
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c8f41d5b76ef3ab0800000000000000
+      internalID: -5026045241605162807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_74
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 6
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea539c81c3ab3040800000000000000
+      internalID: 4628473093735799522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_75
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 7
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e0b2931b488c0c0800000000000000
+      internalID: -4555245126382055901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_76
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 6
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d097223b8cbd8eb10800000000000000
+      internalID: 2011098888666249485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_77
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 7
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cd2a2cf35e04c40800000000000000
+      internalID: 5494643607403158649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_78
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 18
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f22816587f5d4580800000000000000
+      internalID: -8841305523013278990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_79
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 18
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb37e4d32854fba0800000000000000
+      internalID: -6056118687987450912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_80
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 9
+        width: 45
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a1c8d2f7a81afe0800000000000000
+      internalID: -1179509348564723131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_81
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 21
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a79467ceaa791c40800000000000000
+      internalID: 5483548912388446117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tileset_Modern_BuildingExtras_82
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 27
+        width: 33
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fabd7332ac123360800000000000000
+      internalID: 7147807041564556021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9ce35fe48c87bac448183a876e23716f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Tileset_Modern_BuildingExtras_1: 5968912316246860275
+      Tileset_Modern_BuildingExtras_10: 8219256223373971734
+      Tileset_Modern_BuildingExtras_11: 4032224676757741336
+      Tileset_Modern_BuildingExtras_12: -2365655602982637317
+      Tileset_Modern_BuildingExtras_13: 7065913812009967683
+      Tileset_Modern_BuildingExtras_14: 6476862791433600469
+      Tileset_Modern_BuildingExtras_15: -6932208447912205894
+      Tileset_Modern_BuildingExtras_16: -6186210126324268549
+      Tileset_Modern_BuildingExtras_17: 674842409940004679
+      Tileset_Modern_BuildingExtras_18: -718897046447366807
+      Tileset_Modern_BuildingExtras_19: -7368639403094049587
+      Tileset_Modern_BuildingExtras_2: -1720135952697403022
+      Tileset_Modern_BuildingExtras_20: 5149219634159990553
+      Tileset_Modern_BuildingExtras_21: 7501143952667708442
+      Tileset_Modern_BuildingExtras_22: -1955414351358861586
+      Tileset_Modern_BuildingExtras_23: 2264810563325534640
+      Tileset_Modern_BuildingExtras_24: 6119939304027770763
+      Tileset_Modern_BuildingExtras_25: 3375239582036358414
+      Tileset_Modern_BuildingExtras_26: 7181421223540985038
+      Tileset_Modern_BuildingExtras_27: -8958585038660887595
+      Tileset_Modern_BuildingExtras_28: -2470011698916692083
+      Tileset_Modern_BuildingExtras_29: 648344945644763934
+      Tileset_Modern_BuildingExtras_3: 7463180468918541493
+      Tileset_Modern_BuildingExtras_30: 8997188631214288043
+      Tileset_Modern_BuildingExtras_31: 3593428651171357208
+      Tileset_Modern_BuildingExtras_32: 6223817437550675818
+      Tileset_Modern_BuildingExtras_33: -326162446812678338
+      Tileset_Modern_BuildingExtras_34: 89135423511099387
+      Tileset_Modern_BuildingExtras_35: -8863104743647851088
+      Tileset_Modern_BuildingExtras_36: 2991923195434160448
+      Tileset_Modern_BuildingExtras_37: 3653452933121204484
+      Tileset_Modern_BuildingExtras_38: 9221051822109996556
+      Tileset_Modern_BuildingExtras_39: -8905298794652737839
+      Tileset_Modern_BuildingExtras_4: -7834815044003106427
+      Tileset_Modern_BuildingExtras_40: -1498487505522835887
+      Tileset_Modern_BuildingExtras_41: -209192715721224544
+      Tileset_Modern_BuildingExtras_42: 582034884208629519
+      Tileset_Modern_BuildingExtras_43: 353416256188120025
+      Tileset_Modern_BuildingExtras_44: -2323899689034244990
+      Tileset_Modern_BuildingExtras_45: -6065514307037337127
+      Tileset_Modern_BuildingExtras_46: 6681194763115912225
+      Tileset_Modern_BuildingExtras_47: 7431207715639826091
+      Tileset_Modern_BuildingExtras_48: 5535562640469222673
+      Tileset_Modern_BuildingExtras_49: 1490928050101981678
+      Tileset_Modern_BuildingExtras_5: 1021776827159309081
+      Tileset_Modern_BuildingExtras_50: -419740251978330239
+      Tileset_Modern_BuildingExtras_51: -1923905532824824799
+      Tileset_Modern_BuildingExtras_52: -3869984542212058866
+      Tileset_Modern_BuildingExtras_53: -5994516928914707026
+      Tileset_Modern_BuildingExtras_54: 3908807493115055284
+      Tileset_Modern_BuildingExtras_55: 312598249811308709
+      Tileset_Modern_BuildingExtras_56: -3489862892182287752
+      Tileset_Modern_BuildingExtras_57: 4471615547748112894
+      Tileset_Modern_BuildingExtras_58: 8049274985536429
+      Tileset_Modern_BuildingExtras_59: 4960017299663587578
+      Tileset_Modern_BuildingExtras_6: -5313660514764828046
+      Tileset_Modern_BuildingExtras_60: -4942628241564378715
+      Tileset_Modern_BuildingExtras_61: 3512761620873476118
+      Tileset_Modern_BuildingExtras_62: 2818608656831569482
+      Tileset_Modern_BuildingExtras_63: -2464180352753427061
+      Tileset_Modern_BuildingExtras_64: -6317434230294240661
+      Tileset_Modern_BuildingExtras_65: -3212220796456277397
+      Tileset_Modern_BuildingExtras_66: 2833708762237485397
+      Tileset_Modern_BuildingExtras_67: -1525051744901302627
+      Tileset_Modern_BuildingExtras_68: -4192011895534412907
+      Tileset_Modern_BuildingExtras_69: 2777227261737557260
+      Tileset_Modern_BuildingExtras_70: -3742789603949204480
+      Tileset_Modern_BuildingExtras_71: -4898956299286042196
+      Tileset_Modern_BuildingExtras_72: 5008138693890644858
+      Tileset_Modern_BuildingExtras_73: -5026045241605162807
+      Tileset_Modern_BuildingExtras_74: 4628473093735799522
+      Tileset_Modern_BuildingExtras_75: -4555245126382055901
+      Tileset_Modern_BuildingExtras_76: 2011098888666249485
+      Tileset_Modern_BuildingExtras_77: 5494643607403158649
+      Tileset_Modern_BuildingExtras_78: -8841305523013278990
+      Tileset_Modern_BuildingExtras_79: -6056118687987450912
+      Tileset_Modern_BuildingExtras_8: -3015336738767581435
+      Tileset_Modern_BuildingExtras_80: -1179509348564723131
+      Tileset_Modern_BuildingExtras_81: 5483548912388446117
+      Tileset_Modern_BuildingExtras_82: 7147807041564556021
+      Tileset_Modern_BuildingExtras_9: -1702391707802618842
+      Wall_Horizontal: 1188502366169645736
+      Wall_Vertical: 5673671305165268410
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
