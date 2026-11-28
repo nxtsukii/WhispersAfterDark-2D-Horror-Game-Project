@@ -486,6 +486,50 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: GardenWeed_01
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 148
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4cf9d61c160db45888afc207c6e513
+      internalID: -1945387622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GardenWeed_02
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 148
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a5ae243977708468502203c433a8c3
+      internalID: -693546516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     customData: 
     physicsShape: []
@@ -501,6 +545,8 @@ TextureImporter:
       entries: []
     nameFileIdTable:
       Bench_Front: -5504971623954688233
+      GardenWeed_01: -1945387622
+      GardenWeed_02: -693546516
       park assets_1: 617894291059389635
       park assets_10: 7316620627314320039
       park assets_11: -9081136982524722778
